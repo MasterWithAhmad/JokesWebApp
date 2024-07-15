@@ -28,7 +28,7 @@ JokesWebApp is a web application developed with ASP.NET Core (MVC) that allows u
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/JokesWebApp.git
+    git clone https://github.com/MasterWithAhmad/JokesWebApp.git
     ```
 
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ JokesWebApp is a web application developed with ASP.NET Core (MVC) that allows u
 4. Update the database connection string in `appsettings.json`:
     ```json
     "ConnectionStrings": {
-        "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=JokesWebAppDb;Trusted_Connection=True;MultipleActiveResultSets=true"
+        "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=YOUR DATABASE NAME HERE;Trusted_Connection=True;MultipleActiveResultSets=true"
     }
     ```
 
@@ -81,7 +81,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Contact
 
-For any questions or feedback, please contact us at support@jokeswebapp.com.
+For any questions or feedback, please contact me at ahmad.eyhash@gmail.com.
 
 ---
 
